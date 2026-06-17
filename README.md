@@ -36,19 +36,7 @@
 تا نمونه‌سازی خودکار، بهینه‌سازی رابط کاربری و تحلیل احساس کاربران –  
 هوش مصنوعی برای من مثل یک قلم‌موی جادویی است که فیچرها را سریع‌تر، دقیق‌تر و شاعرانه‌تر می‌سازد.
 
-**ابزارهای مدرنی که هر روز در آغوششان می‌گیرم:**
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-اما ابزارها فقط وسیله‌اند؛  
+اما ابزارها فقط وسیله‌اند؛
 جادوی واقعی وقتی اتفاق می‌افتد که **ذهن ایده‌پرداز** پشت آن‌ها بنشیند.  
 من فرق بین یک «اپ معمولی» و «اپی که کاربر عاشقش می‌شود» را در همین هم‌افزایی می‌دانم:  
 **ایده × ابزار نوین × هوش مصنوعی**.
@@ -82,14 +70,12 @@
 اگر تو هم مثل من عاشق خلق کردن هستی،  
 اگر با شنیدن یک ایده‌ی دیوانه‌وار قلبت تندتر می‌زند،  
 یا اگر صرفاً می‌خواهی وب‌سایت یا اپلیکیشنت صاحب **فیچری جادویی** شود،  
-من اینجایم – با ذهنی پر از ایده و دست‌هایی مسلح به هوش مصنوعی.
+من اینجایم، با ذهنی پر از ایده و دست‌هایی مسلح به هوش مصنوعی.
 
 📬 **راه‌های ارتباطی:**
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://t.me/yourhandle"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:o86sho86sh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/OMIX777"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
