@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=✨+ایده%E2%80%8Cپرداز+%26+فیچرساز+دیجیتال+✨;🧠+خلق+با+هوش+مصنوعی+%26+ابزارهای+نوین+🧠" alt="تایپوگرافی" />
-</div>
-
-<br />
-
 <div align="right" dir="rtl">
 
 ## 🌌 یک معمار کوچک در دنیای بزرگ نرم‌افزار
